@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def file_reader(filename = ""):
+def read_file(filename = ""):
 	"""
 		This function reads a text file and prints it out on the screen
 	"""

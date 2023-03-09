@@ -10,6 +10,3 @@ if __name__ == "__main__":
         print("{:d} arguments:".format(number - 1))
     for i in range(1, number):
         print("{:d}: {:s}".format(i, (argv[i])))
-
-
-   
